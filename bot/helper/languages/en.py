@@ -1,6 +1,6 @@
 START_MSG = """
-This bot can mirror from links|tgfiles|torrents|nzb|rclone-cloud to any rclone cloud, Google Drive or to telegram.
+This bot allows you to download non-DRM educational videos from various platforms and mirror them to your preferred cloud storage like Google Drive, any rclone cloud, or even send them to Telegram or DDL servers.
 Type /{cmd} to get a list of available commands
 """
-START_BUTTON1 = "Git Repo"
-START_BUTTON2 = "Updates"
+START_BUTTON1 = "✨Join CHannel✨"
+START_BUTTON2 = "⚡DL-Group⚡"

@@ -32,7 +32,7 @@ class Config:
     GDRIVE_ID = ""
     GD_DESP = "Uploaded with WZ Bot"
     AUTHOR_NAME = "WZML-X"
-    AUTHOR_URL = "https://t.me/WZML_X"
+    AUTHOR_URL = "https://t.me/+e9KSGZFoxv03NjQ1"
     INSTADL_API = ""
     IMDB_TEMPLATE = ""
     INCOMPLETE_TASK_NOTIFIER = False

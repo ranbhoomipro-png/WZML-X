@@ -44,7 +44,7 @@ DISABLE_FF_MODE = False
 
 # Telegraph
 AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_URL = "https://t.me/+e9KSGZFoxv03NjQ1"
 
 # Task Limits
 DIRECT_LIMIT = 0
